@@ -1,2 +1,2 @@
 # CA-Guild-repository
-This project is used to manages the activities for the CA-Guildr
+This repository is used for the CA-Guild and stores all the information that is needed to publish CA articles and supports the CE-CA training. 
